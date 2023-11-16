@@ -8,11 +8,11 @@ Master topics like prompt engineering, vector databases, model architectures, re
 Follow along to learn the techniques and tools JavaScript developers need to transition into AI engineering roles. Let's democratize AI and build a world where every developer can leverage it to solve real problems.
 
 # Where to find us
-[The AI Engineer Website] (theaiengineer.co)
-[LinkedIn] (linkedin.com/company/theaiengineer)
-[GitHub] (github.com/theaiengineer)
-[Twitter / X] (twitter.com/theaiengineerco)
-[Telegram] (https://t.me/theaiengineer)
-[Discord] (https://discord.gg/t7rGa5vSsW)
-[YouTube] (https://www.youtube.com/@TheAIEngineerCo)
+* [The AI Engineer Website] (theaiengineer.co)
+* [LinkedIn] (linkedin.com/company/theaiengineer)
+* [GitHub] (github.com/theaiengineer)
+* [Twitter / X] (twitter.com/theaiengineerco)
+* [Telegram] (https://t.me/theaiengineer)
+* [Discord] (https://discord.gg/t7rGa5vSsW)
+* [YouTube] (https://www.youtube.com/@TheAIEngineerCo)
 
