@@ -16,5 +16,5 @@ Follow along to learn the techniques and tools JavaScript developers need to tra
 * [Discord](https://discord.gg/t7rGa5vSsW)
 * [YouTube](https://www.youtube.com/@TheAIEngineerCo)
 * [Threads](https://www.threads.net/@theaiengineerco)
-* [Instagram](https://www.instagram.com/@heaiengineerco)
+* [Instagram](https://www.instagram.com/theaiengineerco)
 
