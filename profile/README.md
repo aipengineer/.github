@@ -8,7 +8,7 @@ Master topics like prompt engineering, vector databases, model architectures, re
 Follow along to learn the techniques and tools to transition into AI product engineering roles. Let's democratize AI and build a world where everyone can leverage it to solve real problems.
 
 # Where to find us
-* [The AI Engineer Website](https://theaiengineer.co)
+* [AI Product Engineer Website](https://theaiengineer.co)
 * [LinkedIn](https://linkedin.com/company/aipengineer)
 * [GitHub](https://github.com/aipengineer)
 * [Twitter / X](https://twitter.com/aipengineer)
