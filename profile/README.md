@@ -9,7 +9,7 @@ Follow along to learn the techniques and tools to transition into AI product eng
 
 # Where to find us
 
-* [AI Product Engineer Website](https://aip.engineer)
+* [AI Product Engineer Website](https://aiproduct.engineer)
 * [LinkedIn](https://linkedin.com/company/aipengineer)
 * [GitHub](https://github.com/aipengineer)
 * [Twitter / X](https://twitter.com/aipengineer)
