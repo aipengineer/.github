@@ -16,4 +16,4 @@ Join our community of builders who believe in pushing the boundaries of AI—one
 * [YouTube](https://www.youtube.com/@aipengineer)
 * [Threads](https://www.threads.net/@aipengineer)
 * [Instagram](https://www.instagram.com/aipengineer)
-* [Substack](http://aipengineer.substack.com)
+* [Newsletter](http://newsletter.aiproduct.engineer)
