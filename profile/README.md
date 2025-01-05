@@ -1,11 +1,9 @@
 # AI Product Engineer
-AI Product Engineer empowers you to build real-world AI applications, even without prior machine learning expertise.
+AI Product Engineer is your code-first hub for building agentic AI software that goes beyond simple prompts and prototypes. We focus on practical, real-world development, arming software engineers with hands-on tutorials, curated tool comparisons, and in-depth courses.
 
-Our hands-on guides fill the gap for those seeking to integrate AI into their apps and websites. With accessible explanations, up-to-date coverage of techniques like few-shot learning and prompt tuning, and code examples, AI Product Engineer is the essential resource for building production-ready AI products.
+Whether you are integrating an AI framework or architecting a fully agentic SaaS, AI Product Engineer provides developer-friendly resources to help you move faster and deliver robust AI solutions. Our mission is to bridge the gap between conceptual AI breakthroughs and production-ready systems that genuinely transform businesses.
 
-Master topics like prompt engineering, vector databases, model architectures, responsible AI, and thoughtful UX design for AI interfaces. Gain the practical skills to implement powerful AI from scratch, supercharging your professional opportunities in this high-demand field.
-
-Follow along to learn the techniques and tools to transition into AI product engineering roles. Let's democratize AI and build a world where everyone can leverage it to solve real problems.
+Join our community of builders who believe in pushing the boundaries of AI—one product at a time.
 
 # Where to find us
 
